@@ -1,6 +1,6 @@
 name: build-deploy-staging
 on:
-  push:
+  pull-request:
     branches:
       - '*'
 jobs:
