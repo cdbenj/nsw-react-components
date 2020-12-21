@@ -8,7 +8,6 @@ function App() {
     <div className="App">
         <NSWTemplate title={'Header'} toggleMenu={true} userName={'Ben'}>
         </NSWTemplate>
-
     </div>
   );
 }
